@@ -1,0 +1,12 @@
+answers/
+answer/
+*.ipynb_checkpoints/
+*data
+maker/
+venv/
+models/
+*.mp4
+*.csv
+.DS_Store
+*__pycache__*
+more-dl/
