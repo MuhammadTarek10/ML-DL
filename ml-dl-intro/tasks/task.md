@@ -1,6 +1,6 @@
-# Rideshare Linear Regression
+# Making a Model
 
-Download this dataset [Click Here](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
+Download this dataset [Click Here](https://drive.google.com/file/d/1NeV1LhVA8INdMNJqVPAIG-AzoweT9Dw1/view?usp=sharing)
 
 You're required to build Linear Regression model and Polynomial Regression (second order) Model that can predict the price of the ride based on how many hours.
 
