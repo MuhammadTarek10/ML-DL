@@ -9,4 +9,3 @@ models/
 *.csv
 .DS_Store
 *__pycache__*
-more-dl/
