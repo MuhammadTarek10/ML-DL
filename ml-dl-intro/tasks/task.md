@@ -1,8 +1,9 @@
 # Making a Model
 
-Download this dataset [Click Here](https://drive.google.com/file/d/1NeV1LhVA8INdMNJqVPAIG-AzoweT9Dw1/view?usp=sharing)
+Download this dataset [Click Here](https://drive.google.com/file/d/1vR79Q1u5_TQXXwerU-CdsI5sPlAW72dH/view?usp=sharing)
 
-You're required to build Linear Regression model and Polynomial Regression (second order) Model that can predict the price of the ride based on how many hours.
+You're required to solve this problem using PyTorch, see data for x1, x2, x3, x4, x5 columns and choose the best model for predicting y column.
+Hint: You can use Linear Regression or Polynomial Regression.
 
 ## Task
 
