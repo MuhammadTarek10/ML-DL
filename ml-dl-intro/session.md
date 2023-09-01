@@ -1,5 +1,6 @@
-1. MNist Example
-2. What is ML?
+1. Virtual Env
+2. MNist Example
+3. What is ML?
    1. Supervised Learning
       1. Regression
          1. Linear Regression
@@ -15,8 +16,8 @@
          2. DBSCAN
          3. Hierarchical Clustering
    3. Intro Deep Learning
-3. What is Tensor?
-4. Linear Regression Workshop
+4. What is Tensor?
+5. Linear Regression Workshop
    1. Steps to make a model
       1. Data Preparation
       2. Model Preparation
