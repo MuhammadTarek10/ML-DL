@@ -1,5 +1,7 @@
-answers/
-answer/
+ml-dl-intro/tasks/answer/
+more-dl/exercise/answers/
+more-dl/tasks/answers/
+
 *.ipynb_checkpoints/
 *data
 maker/
