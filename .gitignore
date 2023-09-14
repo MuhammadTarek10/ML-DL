@@ -1,5 +1,6 @@
-answers/
-answer/
+ml-dl-intro/tasks/answer/
+more-dl/tasks/answers/
+important/dataset.ipynb
 *.ipynb_checkpoints/
 *data
 maker/
